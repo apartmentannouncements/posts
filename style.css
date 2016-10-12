@@ -1,0 +1,46 @@
+
+h3 {
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+h2 {
+	padding-left: 30px;
+}
+h6 {
+	padding-left: 10px;
+}
+#titleDiv {
+	border: 2px solid black;
+	border-radius: 10px
+}
+div {
+	border: 1px solid black;
+	margin-top: 20px;
+	padding: 10px;
+	border-radius: 10px;
+}
+.subPost {
+	margin-top: 5px;
+}
+.post p {
+	padding: 3px;
+	margin: 5px;
+}
+#closingText1 {
+	margin-bottom: 0px;
+	padding-bottom: 0px
+}
+#closingText2 {
+	margin-top: 0px;
+	padding-top: 0px
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: Arial, Helvetica, sans-serif
+}
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif
+}
+
+html {
+	background-color: #C7FCFF;
+}
