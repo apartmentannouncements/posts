@@ -11,17 +11,35 @@ h6 {
 }
 #titleDiv {
 	border: 2px solid black;
-	border-radius: 10px
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	border-radius: 10px;
+	background-color: #f5f5dc;
 }
 div {
 	border: 1px solid black;
-	margin-top: 20px;
 	padding: 10px;
 	border-radius: 10px;
+	margin: 20px 10px 0px 10px;
 }
 .subPost {
 	margin-top: 5px;
 }
+
+.post {
+	background-color: #f5f5dc;
+}
+
+#footer {
+	height: 200px;
+	border: none;
+	background: url("http://becomingalphamale.com/wp-content/uploads/2015/10/The-Penis-Professor-review-Reviews-Results-size-thepenisprofessor-results-excercise-program-how-does-it-work-penis-penile-enlargement-atomy-Banner-becoming-alpha-male.png");
+	border-radius: 0;
+	padding: 0;
+	background-size: 100% 100%;
+	margin-left: 0;
+	margin-right: 0
+}
+
 .post p {
 	padding: 3px;
 	margin: 5px;
@@ -34,13 +52,16 @@ div {
 	margin-top: 0px;
 	padding-top: 0px
 }
-h1,h2,h3,h4,h5,h6 {
+h3,h4,h5,h6 {
 	font-family: Arial, Helvetica, sans-serif
 }
 p {
 	font-family: "Comic Sans MS", cursive, sans-serif
 }
-
+body {
+	margin: 0;
+}
 html {
-	background-color: #C7FCFF;
+	background-color: #f5f5dc;
+	background-image: url("http://new.graphicpanic.com/wp-content/uploads/2015/06/bulletin-board-background.jpg");
 }

@@ -1,12 +1,31 @@
 p {
 	font-size: 40px;
-	margin: 5px;
+	margin: 0;
+	padding: 100px;
+	text-align: center;
+	color: white;
 }
-div {
-	margin-top: 100px;
-	margin-left: 30px;
+#full {
+	min-height: 100%;
+	background-image: url("http://i.makeagif.com/media/2-07-2014/P7OZiC.gif");
+	background-size: 100% 110%;
 }
 
 * {
 	font-family: "Lucida Console", Monaco, monospace
+}
+
+html, body{
+	height: 100%;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #00BFFF;
 }
